@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "chalk": "2.4.2",
-    "minimatch": "3.0.5",
+    "minimatch": "3.1.4",
     "yargs": "^15.3.1"
   },
   "devDependencies": {
